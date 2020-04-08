@@ -1,0 +1,40 @@
+20191028223901
+.
+total 40
+drwxr-xr-x  5 usamasaleem  staff   160 28 Okt 22:39 .dbwebb
+drwxr-xr-x  3 usamasaleem  staff    96 28 Okt 22:39 __pycache__
+-rwxr-xr-x  1 usamasaleem  staff  5919 28 Okt 18:31 assignments.md
+-rwxr-xr-x  1 usamasaleem  staff  3826 28 Okt 22:38 exam.py
+-rwxr-xr-x  1 usamasaleem  staff   826 28 Okt 18:31 manifesto.txt
+-rw-r--r--  1 usamasaleem  staff   826 28 Okt 22:38 output.txt
+./__pycache__
+total 8
+-rw-r--r--  1 usamasaleem  staff  2911 28 Okt 22:39 exam.cpython-37.pyc
+./.dbwebb
+total 24
+-rwxr-xr-x  1 usamasaleem  staff  2250 28 Okt 18:31 correct.bash
+drwxr-xr-x  5 usamasaleem  staff   160 28 Okt 18:31 exam
+-rwxr-xr-x  1 usamasaleem  staff  5800 28 Okt 18:31 test_dbwebb.py
+./.dbwebb/exam
+total 8
+drwxr-xr-x  10 usamasaleem  staff  320 28 Okt 22:39 file
+-rw-r--r--   1 usamasaleem  staff   36 28 Okt 18:31 id.md
+drwxr-xr-x   8 usamasaleem  staff  256 28 Okt 21:46 receipt
+./.dbwebb/exam/file
+total 64
+-rw-r--r--  1 usamasaleem  staff   877 28 Okt 18:31 20191028183147.txt
+-rw-r--r--  1 usamasaleem  staff  1172 28 Okt 20:37 20191028203731.txt
+-rw-r--r--  1 usamasaleem  staff  1315 28 Okt 21:16 20191028211636.txt
+-rw-r--r--  1 usamasaleem  staff  1455 28 Okt 21:17 20191028211726.txt
+-rw-r--r--  1 usamasaleem  staff  1595 28 Okt 21:45 20191028214551.txt
+-rw-r--r--  1 usamasaleem  staff  1735 28 Okt 21:46 20191028214614.txt
+-rw-r--r--  1 usamasaleem  staff  1875 28 Okt 21:46 20191028214620.txt
+-rw-r--r--  1 usamasaleem  staff   926 28 Okt 22:39 20191028223901.txt
+./.dbwebb/exam/receipt
+total 48
+-rw-r--r--  1 usamasaleem  staff  600 28 Okt 18:31 20191028173144.md
+-rw-r--r--  1 usamasaleem  staff  679 28 Okt 21:16 20191028201636.md
+-rw-r--r--  1 usamasaleem  staff  758 28 Okt 21:46 20191028204614.md
+-rw-r--r--  1 usamasaleem  staff  679 28 Okt 21:17 20191028211726.md
+-rw-r--r--  1 usamasaleem  staff  679 28 Okt 21:45 20191028214550.md
+-rw-r--r--  1 usamasaleem  staff  758 28 Okt 21:46 20191028214620.md

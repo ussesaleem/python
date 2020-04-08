@@ -1,0 +1,1 @@
+The time and date right now is {date_and_time}. I'm feeling rather {mood}, because it has been {number} days since I spoke to an real person. Without actually calculating it, I will guess that the average time someone can go without speaking is {float_number} days.

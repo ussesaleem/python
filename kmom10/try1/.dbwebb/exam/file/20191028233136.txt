@@ -1,0 +1,72 @@
+20191028233136
+.
+total 40
+drwxr-xr-x  5 usamasaleem  staff   160 28 Okt 23:30 .dbwebb
+drwxr-xr-x  3 usamasaleem  staff    96 28 Okt 23:30 __pycache__
+-rwxr-xr-x  1 usamasaleem  staff  5919 28 Okt 18:31 assignments.md
+-rwxr-xr-x  1 usamasaleem  staff  3710 28 Okt 23:30 exam.py
+-rwxr-xr-x  1 usamasaleem  staff   826 28 Okt 18:31 manifesto.txt
+-rw-r--r--  1 usamasaleem  staff   826 28 Okt 23:07 output.txt
+./__pycache__
+total 8
+-rw-r--r--  1 usamasaleem  staff  2807 28 Okt 23:30 exam.cpython-37.pyc
+./.dbwebb
+total 24
+-rwxr-xr-x  1 usamasaleem  staff  2250 28 Okt 18:31 correct.bash
+drwxr-xr-x  5 usamasaleem  staff   160 28 Okt 18:31 exam
+-rwxr-xr-x  1 usamasaleem  staff  5800 28 Okt 18:31 test_dbwebb.py
+./.dbwebb/exam
+total 8
+drwxr-xr-x  31 usamasaleem  staff  992 28 Okt 23:31 file
+-rw-r--r--   1 usamasaleem  staff   36 28 Okt 18:31 id.md
+drwxr-xr-x  19 usamasaleem  staff  608 28 Okt 23:31 receipt
+./.dbwebb/exam/file
+total 232
+-rw-r--r--  1 usamasaleem  staff   877 28 Okt 18:31 20191028183147.txt
+-rw-r--r--  1 usamasaleem  staff  1172 28 Okt 20:37 20191028203731.txt
+-rw-r--r--  1 usamasaleem  staff  1315 28 Okt 21:16 20191028211636.txt
+-rw-r--r--  1 usamasaleem  staff  1455 28 Okt 21:17 20191028211726.txt
+-rw-r--r--  1 usamasaleem  staff  1595 28 Okt 21:45 20191028214551.txt
+-rw-r--r--  1 usamasaleem  staff  1735 28 Okt 21:46 20191028214614.txt
+-rw-r--r--  1 usamasaleem  staff  1875 28 Okt 21:46 20191028214620.txt
+-rw-r--r--  1 usamasaleem  staff  1949 28 Okt 22:39 20191028223901.txt
+-rw-r--r--  1 usamasaleem  staff  2020 28 Okt 22:42 20191028224230.txt
+-rw-r--r--  1 usamasaleem  staff  2160 28 Okt 23:06 20191028230609.txt
+-rw-r--r--  1 usamasaleem  staff  2300 28 Okt 23:06 20191028230621.txt
+-rw-r--r--  1 usamasaleem  staff  2371 28 Okt 23:08 20191028230800.txt
+-rw-r--r--  1 usamasaleem  staff  2443 28 Okt 23:09 20191028230929.txt
+-rw-r--r--  1 usamasaleem  staff  2514 28 Okt 23:10 20191028231011.txt
+-rw-r--r--  1 usamasaleem  staff  2654 28 Okt 23:18 20191028231814.txt
+-rw-r--r--  1 usamasaleem  staff  2794 28 Okt 23:18 20191028231832.txt
+-rw-r--r--  1 usamasaleem  staff  2865 28 Okt 23:20 20191028232017.txt
+-rw-r--r--  1 usamasaleem  staff  2936 28 Okt 23:22 20191028232233.txt
+-rw-r--r--  1 usamasaleem  staff  3076 28 Okt 23:24 20191028232441.txt
+-rw-r--r--  1 usamasaleem  staff  3216 28 Okt 23:24 20191028232451.txt
+-rw-r--r--  1 usamasaleem  staff  3370 28 Okt 23:25 20191028232533.txt
+-rw-r--r--  1 usamasaleem  staff  3511 28 Okt 23:25 20191028232537.txt
+-rw-r--r--  1 usamasaleem  staff  3582 28 Okt 23:26 20191028232641.txt
+-rw-r--r--  1 usamasaleem  staff  3653 28 Okt 23:28 20191028232802.txt
+-rw-r--r--  1 usamasaleem  staff  3724 28 Okt 23:29 20191028232929.txt
+-rw-r--r--  1 usamasaleem  staff  3865 28 Okt 23:29 20191028232944.txt
+-rw-r--r--  1 usamasaleem  staff  4006 28 Okt 23:29 20191028232949.txt
+-rw-r--r--  1 usamasaleem  staff  4077 28 Okt 23:30 20191028233042.txt
+-rw-r--r--  1 usamasaleem  staff   926 28 Okt 23:31 20191028233136.txt
+./.dbwebb/exam/receipt
+total 136
+-rw-r--r--  1 usamasaleem  staff   600 28 Okt 18:31 20191028173144.md
+-rw-r--r--  1 usamasaleem  staff   679 28 Okt 21:16 20191028201636.md
+-rw-r--r--  1 usamasaleem  staff   758 28 Okt 21:46 20191028204614.md
+-rw-r--r--  1 usamasaleem  staff   679 28 Okt 21:17 20191028211726.md
+-rw-r--r--  1 usamasaleem  staff   679 28 Okt 21:45 20191028214550.md
+-rw-r--r--  1 usamasaleem  staff   758 28 Okt 21:46 20191028214620.md
+-rw-r--r--  1 usamasaleem  staff   829 28 Okt 23:06 20191028220609.md
+-rw-r--r--  1 usamasaleem  staff   908 28 Okt 23:18 20191028221814.md
+-rw-r--r--  1 usamasaleem  staff   987 28 Okt 23:24 20191028222441.md
+-rw-r--r--  1 usamasaleem  staff  1069 28 Okt 23:25 20191028222533.md
+-rw-r--r--  1 usamasaleem  staff  1148 28 Okt 23:29 20191028222944.md
+-rw-r--r--  1 usamasaleem  staff  1227 28 Okt 23:31 20191028223136.md
+-rw-r--r--  1 usamasaleem  staff   829 28 Okt 23:06 20191028230621.md
+-rw-r--r--  1 usamasaleem  staff   908 28 Okt 23:18 20191028231832.md
+-rw-r--r--  1 usamasaleem  staff   987 28 Okt 23:24 20191028232451.md
+-rw-r--r--  1 usamasaleem  staff  1069 28 Okt 23:25 20191028232537.md
+-rw-r--r--  1 usamasaleem  staff  1148 28 Okt 23:29 20191028232949.md

@@ -1,0 +1,96 @@
+{
+    "details": "Generated for ussa19 at 2019-10-17 20:40:21.",
+    "key": "2409ec437d1f4b87e01ccd90d2ad7f25",
+    "summary": {
+        "questions": 14,
+        "points": 18,
+        "pass": 12,
+        "passdistinct": 18
+    },
+    "points": {
+        "1.1": 1,
+        "1.2": 1,
+        "1.3": 1,
+        "1.4": 1,
+        "1.5": 1,
+        "2.1": 1,
+        "2.2": 1,
+        "2.3": 1,
+        "2.4": 1,
+        "2.5": 1,
+        "2.6": 1,
+        "2.7": 1,
+        "3.1": 3,
+        "3.2": 3
+    },
+    "answers": {
+        "1.1": [
+            "Berenger",
+            "Sheen",
+            "butterfly",
+            "piano"
+        ],
+        "1.2": [
+            "Dafoe",
+            "hotdog",
+            "pirate",
+            "Sheen",
+            "Berenger",
+            "Depp",
+            "Whitaker"
+        ],
+        "1.3": [
+            "Dafoe",
+            "Sheen",
+            "painting",
+            "Depp",
+            "Whitaker"
+        ],
+        "1.4": [
+            "wasp",
+            "mosquito",
+            "fly",
+            "butterfly",
+            "bumblebee"
+        ],
+        "1.5": [
+            "Dafoe",
+            "Sheen",
+            "Berenger",
+            "Depp"
+        ],
+        "2.1": 485,
+        "2.2": 95.2,
+        "2.3": "The wind is blowing",
+        "2.4": [
+            "reggae",
+            "book",
+            "candle",
+            "jazz",
+            "opera"
+        ],
+        "2.5": false,
+        "2.6": true,
+        "2.7": [
+            "z",
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "3.1": [
+            10,
+            50,
+            120,
+            980,
+            3690
+        ],
+        "3.2": [
+            160,
+            130,
+            128,
+            74,
+            8
+        ]
+    }
+}
